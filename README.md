@@ -44,14 +44,22 @@ Imputs:
   "Definitely share your feedback in the comment section.",
   "So even if it's a big video, I will clearly mention all the products.",
   "I was waiting for my bag." 
+  
 Outputs:
+
+
  English: Definitely share your feedback in the comment section.
+ 
  Hinglish: अंत में अपने feedback section पर अपने comments को संपादित करना बहुत आसाना पड़ा।
+ 
 
  English: I was waiting for my bag.
+ 
  Hinglish: मैं अपनी bag का इंतजार कर रहा था।
 
+
  English: So even if it's a big video, I will clearly mention all the products.
+ 
  Hinglish: अगर मेरी video के साथ जोड़ा जाता है, तो मैंने सभी products को बेहतरीनी जैसे वोड़ द।
   
 ## Future Work
