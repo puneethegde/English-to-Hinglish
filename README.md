@@ -50,7 +50,7 @@ Outputs:
 
  English: Definitely share your feedback in the comment section.
  
- Hinglish: अंत में अपने feedback section पर अपने comments को संपादित करना बहुत आसाना पड़ा।
+ Hinglish: ज़रूर अपना feedback comment section में share करें।
  
 
  English: I was waiting for my bag.
