@@ -29,7 +29,15 @@ The code can be divided into several sections:
 
 - **SFTTrainer**: This is a class from Hugging Face's Transformers library that's used for fine-tuning the model. It handles tasks like gradient accumulation, learning rate scheduling, and saving/loading model checkpoints.
 
-
+## Running on colab
+- Install the required libraries.
+- Then set the path for custom dataset.
+- Here for dataset preparation I used bard, but if we write our own sentences, it will yield better and accurate results.
+- I used mGPT LLM text generation model. Better use GPT 3.5, BLOOM or LLama2. As I had memory issues couldn't use those.
+- Then set the parameters and train it.
+- Use the trained weights for queries.
+- Calculate the BLEU score on test dataset.
+- Improve the model i.e. hyperparameter tuning.
 
 ## Future Work
 
