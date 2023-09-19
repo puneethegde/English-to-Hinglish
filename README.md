@@ -55,7 +55,7 @@ Outputs:
 
  English: I was waiting for my bag.
  
- Hinglish: मैं अपनी bag का इंतजार कर रहा था।
+ Hinglish: मैं अपनी bag का wait कर रहा था।
 
 
  English: So even if it's a big video, I will clearly mention all the products.
