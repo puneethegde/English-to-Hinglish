@@ -1,0 +1,344 @@
+English: I am going to the supermarket to buy some groceries. 
+Hinglish: मैं supermarket जा रहा हूँ groceries खरीदने के लिए।
+
+English: She is my best friend and we have known each other since childhood. 
+Hinglish: वह मेरी best friend है और हम एक-दूसरे को childhood से जानते हैं।
+
+English: We won the match and celebrated our victory at a restaurant. 
+Hinglish: हमने match जीता और हमने अपनी victory की restaurant में celebration की।
+
+English: He has a beautiful house with a lovely garden. 
+Hinglish: उसके पास एक beautiful house है एक lovely garden के साथ।
+
+English: They are playing in the park and enjoying the sunny weather. 
+Hinglish: वे park में play कर रहे हैं और sunny weather का मज़ा ले रहे हैं।
+
+English: I have two cats and they love to play with yarn. 
+Hinglish: मेरे पास two cats हैं और उन्हें yarn के साथ play करना पसंद है।
+
+English: She loves reading books and often visits the library. 
+Hinglish: उसे books पढ़ना पसंद है और वह often library visit करती है।
+
+English: We are going for a movie after finishing our homework. 
+Hinglish: हम homework finish करने के बाद movie के लिए जा रहे हैं।
+
+English: He is eating an apple while reading a newspaper. 
+Hinglish: वह apple eat करता हुआ newspaper read कर रहा है।
+
+English: She's an influencer known for her fashion tips and lifestyle vlogs.
+Hinglish: वह एक influencer है जिन्हें उनके fashion tips और lifestyle vlogs के लिए जाना जाता है।
+
+English: My video production setup includes a high-quality camera and professional lighting.
+Hinglish: मेरा video production setup में एक high-quality camera और professional lighting शामिल है।
+
+English: Collaborating with fellow creators can lead to fresh and exciting content ideas.
+Hinglish: Fellow creators के साथ collaboration करने से नए और exciting content ideas आ सकते हैं।
+
+English: I use social media analytics to track the performance of my posts.
+Hinglish: मैं social media analytics का इस्तेमाल मेरे posts की प्रदर्शन की निगरानी के लिए करता हूँ।
+
+English: The key to building a loyal audience is consistency in content delivery.
+Hinglish: एक वफादार audience बनाने का कुंजी है content delivery में consistency।
+
+English: I'm scripting my next video on tips for better storytelling.
+Hinglish: मैं अपने next video के script पर काम कर रहा हूँ, जो better storytelling के tips पर है।
+
+English: Can you help me brainstorm ideas for my podcast episodes?
+Hinglish: क्या आप मेरे podcast episodes के ideas brainstorm करने में मदद कर सकते हैं?
+
+English: The thumbnail for my latest video is eye-catching, don't you think?
+Hinglish: मेरे latest video का thumbnail बहुत ध्यान आकर्षित है, क्या आपको लगता है?
+
+English: I've scheduled a live Q&A session with my subscribers this weekend.
+Hinglish: मैंने इस weekend के लिए मेरे subscribers के साथ एक live Q&A session schedule किया है।
+
+English: Her channel growth has been phenomenal due to her engaging content.
+Hinglish: उसके channel की growth उसके engaging content के कारण अद्भुत रही है।
+
+English: I'm planning to host a giveaway to celebrate reaching 10,000 subscribers.
+Hinglish: मैं 10,000 subscribers प्राप्त करने के उपलक्ष्य में एक giveaway आयोजित करने का प्लान बना रहा हूँ।
+
+English: The algorithm favors longer watch times, so I'm aiming for 10-minute videos.
+Hinglish: एल्गोरिदम बड़े watch times को पसंद करता है, इसलिए मैं 10-minute videos का लक्ष्य रख रहा हूँ।
+
+English: I'm experimenting with different editing styles to keep my content fresh.
+Hinglish: मैं अपने content को fresh रखने के लिए विभिन्न editing styles के साथ प्रयोग कर रहा हूँ।
+
+English: My content strategy involves regular uploads and engaging with comments.
+Hinglish: मेरी content strategy में नियमित uploads और comments के साथ engagement शामिल है।
+
+English: I'm collaborating with a graphic designer for custom channel art.
+Hinglish: मैं custom channel art के लिए एक graphic designer के साथ collaboration कर रहा हूँ।
+
+English: I've been researching trending hashtags to boost my social media reach.
+Hinglish: मैंने trending hashtags का अध्ययन कर रहा हूँ ताकि मेरे social media reach में वृद्धि हो।
+
+English: This camera lens captures stunning details in my travel vlogs.
+Hinglish: यह camera lens मेरे travel vlogs में शानदार विवरणों को कैद करता है।
+
+English: I'm planning a live stream event for my channel's anniversary.
+Hinglish: मैं अपने channel के वर्षगांठ के लिए एक live stream event की योजना बना रहा हूँ।
+
+English: To enhance engagement, I'm considering adding subtitles to my videos.
+Hinglish: Engagement को बढ़ाने के लिए, मैं अपने videos में subtitles जोड़ने का विचार कर रहा हूँ।
+
+English: The analytics show that my audience retention rate is improving.
+Hinglish: Analytics दिखाते हैं कि मेरी audience retention rate में सुधार हो रहा है।
+
+English: I am going to the market. 
+Hinglish: मैं market जा रहा हूँ।
+
+English: She is my best friend. 
+Hinglish: वह मेरी best friend है।
+
+English: We won the match. 
+Hinglish: हमने match जीत लिया।
+
+English: He has a beautiful house. 
+Hinglish: उसके पास एक beautiful house है।
+
+English: They are playing in the park. 
+Hinglish: वे park में play कर रहे हैं।
+
+English: I have two cats. 
+Hinglish: मेरे पास two cats हैं।
+
+English: She loves reading books. 
+Hinglish: उसे books पढ़ना बहुत पसंद है।
+
+English: We are going for a movie. 
+Hinglish: हम movie के लिए जा रहे हैं।
+
+English: He is eating an apple. 
+Hinglish: वह apple खा रहा है।
+
+English: They are studying for the exam. 
+Hinglish: वे exam की study कर रहे हैं।
+
+English: I am cooking dinner. 
+Hinglish: मैं dinner cook कर रहा हूँ।
+
+English: She is writing a letter. 
+Hinglish: वह letter write कर रही है।
+
+English: We are planning a trip. 
+Hinglish: हम trip plan कर रहे हैं।
+
+English: He is driving a car. 
+Hinglish: वह car drive कर रहा है।
+
+English: They are watching a show. 
+Hinglish: वे show watch कर रहे हैं।
+
+English: I am learning Spanish. 
+Hinglish: मैं Spanish सीख रहा हूँ।
+
+English: She is painting a picture. 
+Hinglish: वह picture paint कर रही है।
+
+English: We are decorating the room. 
+Hinglish: हम room decorate कर रहे हैं।
+
+English: He is fixing the bike. 
+Hinglish: वह bike fix कर रहा है।
+
+English: They are making a cake. 
+Hinglish: वे cake make कर रहे हैं।
+
+English: I am taking a nap. 
+Hinglish: मैं nap take कर रहा हुँ ।
+
+English: Collaborating with other creators can bring fresh perspectives to your content.
+Hinglish: दूसरे creators के साथ collaboration करने से आपके content को नई दृष्टिकोण दे सकता है।
+
+English: Analytics help me understand my audience better.
+Hinglish: Analytics मुझे मेरे audience को बेहतर समझने में मदद करते हैं।
+
+English: My YouTube journey started with a simple webcam and a lot of passion.
+Hinglish: मेरा YouTube सफर एक साधा webcam और बहुत सारी पैशन के साथ शुरू हुआ था।
+
+English: Subscribers are the backbone of any successful YouTube channel.
+Hinglish: Subscribers किसी भी सफल YouTube channel की रीढ़ होते हैं।
+
+English: I'm excited to announce a new giveaway on my channel.
+Hinglish: मैं अपने चैनल पर एक नए giveaway की घोषणा करने के लिए उत्सुक हूँ।
+
+English: Thumbnail design can make a big difference in click-through rates.
+Hinglish: Thumbnail design click-through rates में एक बड़ा अंतर कर सकता है।
+
+English: Consistency in content uploads is essential for channel growth.
+Hinglish: Content uploads में संघटना channel के विकास के लिए महत्वपूर्ण है।
+
+English: Engaging with your audience through comments is a great practice.
+Hinglish: आपके audience के साथ comments के माध्यम से engage होना एक बड़ा अच्छा अभ्यास है।
+
+English: Successful YouTubers often share their behind-the-scenes experiences.
+Hinglish: सफल YouTubers अक्सर अपने behind-the-scenes अनुभवों को साझा करते हैं।
+
+English: I couldn't find my bag.
+Hinglish: मैं अपनी bag नहीं पा सका।
+
+English: I finally got my bag.
+Hinglish: अंत में मेरी bag मिल गई।
+
+English: I was worried about my bag.
+Hinglish: मेरी bag के बारे में मैं परेशान था।
+
+English: I had to check my bag in at the airport.
+Hinglish: मुझे एयरपोर्ट पर अपनी bag को check-in करना पड़ा।
+
+English: I was waiting for my bag at the luggage carousel.
+Hinglish: मैं luggage carousel पर अपनी bag का wait कर रहा था।
+
+English: My bag was delayed, so I had to wait.
+Hinglish: मेरी bag में देरी हो गई थी, इसलिए मुझे wait करना पड़ा।
+
+English: I was eagerly waiting for my bag to arrive.
+Hinglish: मैं अपनी bag के आगमन का बेसब्री से waiting कर रहा था।
+
+English: I was waiting for my bus.
+Hinglish: मैं अपनी bus का इंतजार कर रहा था।
+
+English: I had to claim my bag from the baggage claim area.
+Hinglish: मुझे baggage claim area से अपनी bag को जमा करना पड़ा।
+
+English: I spotted my bag as soon as it came out.
+Hinglish: मैंने अपनी bag को तुरंत देख लिया जैसे ही वो came out।
+
+English: While waiting for my bag, I struck up a conversation with a fellow traveler.
+Hinglish: अपनी bag के इंतजार में, मैंने एक fellow traveler के साथ बातचीत की।
+
+English: I felt relieved when my bag finally appeared on the conveyor belt.
+Hinglish: मेरे bag का सोफ़ा belt पर आने पर मुझे आराम मिला।
+
+English: My bag was the last one to arrive, making me anxious.
+Hinglish: मेरी bag सबसे last आई, जिससे मेरे दिल को बहुत बेचैनी हुई।
+
+English: I was waiting for my bag impatiently, as I had valuable items inside.
+Hinglish: मैं अपनी bag का बेताबी से इंतजार कर रहा था, क्योंकि मेरे पास ज़रूरी items थीं।
+
+English: I realized I had picked up the wrong bag by mistake.
+Hinglish: मुझे यह गलत bag उठा लिया था mistake से।
+
+English: We had a conference call with the international team to discuss the project.
+Hinglish: हमने international team के साथ एक conference call किया project को discuss करने के लिए।
+
+English: She received a promotion at work because of her hard work and dedication.
+Hinglish: उसने office में promotion पाया अपनी hard work और dedication के कारण।
+
+English: The new software update includes several bug fixes and performance improvements.
+Hinglish: नए software update में कई bug fixes और performance improvements शामिल हैं।
+
+English: I am going to the gym to exercise. 
+Hinglish: मैं exercise करने के लिए gym जा रहा हूँ।
+
+English: She is my sister and we both love to dance. 
+Hinglish: वह मेरी sister है और हम दोनों को dance करना पसंद है।
+
+English: We are planning a surprise party for our friend’s birthday. 
+Hinglish: हम अपने friend के birthday के लिए surprise party plan कर रहे हैं।
+
+English: He is reading a book while drinking coffee. 
+Hinglish: वह coffee पीते हुए book read कर रहा है।
+
+English: They are going on a vacation to the beach. 
+Hinglish: वे beach पर vacation पर जा रहे हैं।
+
+English: I'm going to go to the bathroom.
+Hinglish: मैं bathroom जा रहा हूँ।
+
+English: I'm going to the market to buy some fruits and vegetables.
+Hinglish: मैं market जा रहा हूँ कुछ fruits और vegetables खरीदने के लिए।
+
+English: I'm going to the bank to deposit some money.
+Hinglish: मैं bank जा रहा हूँ कुछ money deposit करने के लिए।
+
+English: I'm going to the post office to mail a letter.
+Hinglish: मैं post office जा रहा हूँ एक letter mail करने के लिए।
+
+English: I'm going to the doctor's office for a checkup.
+Hinglish: मैं doctor's office जा रहा हूँ checkup के लिए।
+
+English: I'm going to the library to check out some books.
+Hinglish: मैं library जा रहा हूँ कुछ किताबें check out करने के लिए।
+
+English: I'm going to the park for a walk.
+Hinglish: मैं park जा रहा हूँ walk के लिए।
+
+English: I'm going to the mall to buy some clothes.
+Hinglish: मैं mall जा रहा हूँ कुछ clothes खरीदने के लिए।
+
+English: I'm going to the restaurant to eat dinner.
+Hinglish: मैं restaurant जा रहा हूँ dinner खाने के लिए।
+
+English: I'm going to the cinema to watch a movie.
+Hinglish: मैं cinema जा रहा हूँ movie देखने के लिए।
+
+English: I'm going to the gym to work out.
+Hinglish: मैं gym जा रहा हूँ work out करने के लिए।
+
+English: I'm going to the salon to get my hair cut.
+Hinglish: मैं salon जा रहा हूँ hair कटवाने के लिए।
+
+English: I'm going to the spa to get a massage.
+Hinglish: मैं spa जा रहा हूँ massage लेने के लिए।
+
+English: I'm going to the market to buy some fruits and vegetables for my family.
+Hinglish: मैं market जा रहा हूँ अपने family के लिए कुछ fruits और vegetables खरीदने के लिए।
+
+English: I'm going to the bank to check my balance and pay my bills.
+Hinglish: मैं bank जा रहा हूँ अपना balance check करने और अपना bills pay करने के लिए।
+
+English: I'm going to the post office to send a letter to my friend and pick up some packages.
+Hinglish: मैं post office जा रहा हूँ अपने friend को एक letter भेजने और कुछ packages pick up करने के लिए।
+
+English: I'm going to the doctor's office for a checkup and to get my prescription refilled.
+Hinglish: मैं doctor's office जा रहा हूँ checkup के लिए और अपना prescription refilled करवाने के लिए।
+
+English: I'm going to the library to borrow some books for my class and return some books that are due.
+Hinglish: मैं library जा रहा हूँ अपनी class के लिए कुछ किताबें borrow करने और कुछ किताबें return करने के लिए जो कि due हैं।
+
+English: I'm going to the park to play with my dog and have a picnic with my friends.
+Hinglish: मैं park जा रहा हूँ अपने dog के साथ खेलने और अपने दोस्तों के साथ picnic करने के लिए।
+
+English: I'm going to the mall to buy some groceries and watch a movie.
+Hinglish: मैं mall जा रहा हूँ groceries खरीदने और movie देखने के लिए।
+
+English: I'm going to the restaurant to eat lunch with my colleagues and discuss our upcoming project.
+Hinglish: मैं restaurant जा रहा हूँ अपने colleagues के साथ lunch खाने और हमारे upcoming project के बारे में discuss करने के लिए।
+
+English: I'm going to the cinema to watch a new movie with my friends and enjoy the popcorn.
+Hinglish: मैं cinema जा रहा हूँ अपने दोस्तों के साथ एक new movie देखने और popcorn का आनंद लेने के लिए।
+
+English: I'm going to the gym to work out and stay fit.
+Hinglish: मैं gym जा रहा हूँ work out करने और fit रहने के लिए
+
+English: I'm going to the airport to board my flight to Mumbai.
+Hinglish: मैं airport जा रहा हूँ अपनी flight to Mumbai board करने के लिए।
+
+English: I'm going to the train station to catch my train to Bangalore.
+Hinglish: मैं train station जा रहा हूँ अपनी train to Bangalore catch करने के लिए।
+
+English: I'm going to the bus stop to take the bus to Delhi.
+Hinglish: मैं bus stop जा रहा हूँ bus to Delhi लेने के लिए।
+
+English: I'm going to the hotel to check in and leave my luggage.
+Hinglish: मैं hotel जा रहा हूँ check in करने और अपना luggage छोड़ने के लिए।
+
+English: I'm going to the bank to deposit my paycheck and withdraw some money.
+Hinglish: मैं bank जा रहा हूँ अपना paycheck deposit करने और कुछ money withdraw करने के लिए।
+
+English: I'm going to the post office to buy some stamps and mail a package.
+Hinglish: मैं post office जा रहा हूँ कुछ stamps खरीदने और एक package mail करने के लिए।
+
+English: I'm going to the library to study for my exam and borrow some books.
+Hinglish: मैं library जा रहा हूँ अपने exam के लिए study करने और कुछ किताबें borrow करने के लिए।
+
+English: I'm going to the park to go for a walk and enjoy the fresh air.
+Hinglish: मैं park जा रहा हूँ walk के लिए जाने और fresh air का आनंद लेने के लिए।
+
+English: I'm going to the mall to buy some new clothes and have lunch with my friends.
+Hinglish: मैं mall जा रहा हूँ कुछ new clothes खरीदने और अपने दोस्तों के साथ lunch करने के लिए।
+
+English: I'm going to the restaurant to eat dinner with my family and celebrate my birthday.
+Hinglish: मैं restaurant जा रहा हूँ अपने family के साथ dinner खाने और अपना birthday celebrate करने के लिए।
